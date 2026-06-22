@@ -1,4 +1,4 @@
-![About Me](./assets/about-me-card.svg)
+![About Me](./about-me-card.svg)
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinOjha&show_icons=true&theme=radical)
@@ -47,6 +47,3 @@
 [![](https://komarev.com/ghpvc/?username=AvinOjha&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
