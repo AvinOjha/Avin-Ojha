@@ -1,16 +1,4 @@
-# 💫 About Me:
-I'm Avin Ojha, an Engineering student with a passion for Artificial Intelligence and Web Development.
-
-### 🛠 Tech Stack
-- **Languages:** Python, C, C++, JavaScript
-- **Web:** HTML5, CSS3, Flask
-- **Databases:** Supabase
-- **Hardware:** Arduino
-
-### 🚀 Projects
-- **DoubtAI** — AI-powered student companion with RAG and paper prediction.
-- **Automated Bill Calculator** — Web-based bill management tool.
-- **Arduino Distance System** — Sensor-based measurement project.
+![About Me](./assets/about-me-card.svg)
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinOjha&show_icons=true&theme=radical)
@@ -59,3 +47,6 @@ I'm Avin Ojha, an Engineering student with a passion for Artificial Intelligence
 [![](https://komarev.com/ghpvc/?username=AvinOjha&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
