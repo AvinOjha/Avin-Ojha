@@ -1,80 +1,49 @@
-<svg viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#141321"/>
-      <stop offset="55%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#20203a"/>
-    </linearGradient>
-    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#fe428e"/>
-      <stop offset="100%" stop-color="#f8d847"/>
-    </linearGradient>
-  </defs>
+![About Me](./about-me-card.svg)
 
-  <!-- background -->
-  <rect x="0" y="0" width="900" height="760" rx="26" fill="url(#bgGrad)"/>
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinOjha&show_icons=true&theme=radical)
 
-  <!-- decorative glow circles -->
-  <circle cx="860" cy="30" r="120" fill="#fe428e" opacity="0.06"/>
-  <circle cx="20" cy="740" r="150" fill="#a9fef7" opacity="0.05"/>
-  <circle cx="850" cy="700" r="90" fill="#f8d847" opacity="0.05"/>
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/AvinOjha/portfolio/blob/main/portfolio.html)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/avin_ojha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avin_ojha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avin-ojha)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinojha02@gmail.com)
 
-  <!-- Header -->
-  <text x="40" y="62" font-size="38" font-family="Segoe UI, Helvetica, Arial, sans-serif">💫</text>
-  <text x="95" y="60" font-size="34" font-weight="800" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif">About Me</text>
-  <rect x="40" y="80" width="820" height="3" rx="1.5" fill="url(#accentGrad)"/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=plastic&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-  <!-- Intro -->
-  <text x="40" y="122" font-size="16" fill="#c9c9d9" font-family="Segoe UI, Helvetica, Arial, sans-serif">I'm Avin Ojha, an Engineering student with a passion for</text>
-  <text x="40" y="147" font-size="16" fill="#c9c9d9" font-family="Segoe UI, Helvetica, Arial, sans-serif">Artificial Intelligence and Web Development.</text>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AvinOjha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=AvinOjha&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvinOjha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <!-- Tech Stack header -->
-  <text x="40" y="200" font-size="26" font-family="Segoe UI, Helvetica, Arial, sans-serif">🛠</text>
-  <text x="76" y="198" font-size="22" font-weight="700" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif">Tech Stack</text>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AvinOjha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  <!-- Pill 1: Languages -->
-  <rect x="40" y="222" width="820" height="46" rx="10" fill="#1f1f33" stroke="#2d2d45" stroke-width="1"/>
-  <rect x="40" y="222" width="6" height="46" rx="3" fill="#fe428e"/>
-  <text x="66" y="241" font-size="11" font-weight="700" letter-spacing="1.5" fill="#fe428e" font-family="Segoe UI, Helvetica, Arial, sans-serif">LANGUAGES</text>
-  <text x="66" y="260" font-size="15" fill="#e8e8f0" font-family="Segoe UI, Helvetica, Arial, sans-serif">Python, C, C++, JavaScript</text>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <!-- Pill 2: Web -->
-  <rect x="40" y="280" width="820" height="46" rx="10" fill="#1f1f33" stroke="#2d2d45" stroke-width="1"/>
-  <rect x="40" y="280" width="6" height="46" rx="3" fill="#a9fef7"/>
-  <text x="66" y="299" font-size="11" font-weight="700" letter-spacing="1.5" fill="#a9fef7" font-family="Segoe UI, Helvetica, Arial, sans-serif">WEB</text>
-  <text x="66" y="318" font-size="15" fill="#e8e8f0" font-family="Segoe UI, Helvetica, Arial, sans-serif">HTML5, CSS3, Flask</text>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AvinOjha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <!-- Pill 3: Databases -->
-  <rect x="40" y="338" width="820" height="46" rx="10" fill="#1f1f33" stroke="#2d2d45" stroke-width="1"/>
-  <rect x="40" y="338" width="6" height="46" rx="3" fill="#f8d847"/>
-  <text x="66" y="357" font-size="11" font-weight="700" letter-spacing="1.5" fill="#f8d847" font-family="Segoe UI, Helvetica, Arial, sans-serif">DATABASES</text>
-  <text x="66" y="376" font-size="15" fill="#e8e8f0" font-family="Segoe UI, Helvetica, Arial, sans-serif">Supabase</text>
+---
+[![](https://komarev.com/ghpvc/?username=AvinOjha&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  <!-- Pill 4: Hardware -->
-  <rect x="40" y="396" width="820" height="46" rx="10" fill="#1f1f33" stroke="#2d2d45" stroke-width="1"/>
-  <rect x="40" y="396" width="6" height="46" rx="3" fill="#b537f2"/>
-  <text x="66" y="415" font-size="11" font-weight="700" letter-spacing="1.5" fill="#b537f2" font-family="Segoe UI, Helvetica, Arial, sans-serif">HARDWARE</text>
-  <text x="66" y="434" font-size="15" fill="#e8e8f0" font-family="Segoe UI, Helvetica, Arial, sans-serif">Arduino</text>
-
-  <!-- Projects header -->
-  <text x="40" y="486" font-size="26" font-family="Segoe UI, Helvetica, Arial, sans-serif">🚀</text>
-  <text x="76" y="484" font-size="22" font-weight="700" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif">Projects</text>
-
-  <!-- Project Card 1 -->
-  <rect x="40" y="508" width="820" height="62" rx="10" fill="#1f1f33" stroke="#2d2d45" stroke-width="1"/>
-  <rect x="40" y="508" width="6" height="62" rx="3" fill="#a9fef7"/>
-  <text x="66" y="531" font-size="16" font-weight="700" fill="#a9fef7" font-family="Segoe UI, Helvetica, Arial, sans-serif">DoubtAI</text>
-  <text x="66" y="553" font-size="14" fill="#c9c9d9" font-family="Segoe UI, Helvetica, Arial, sans-serif">AI-powered student companion with RAG and paper prediction.</text>
-
-  <!-- Project Card 2 -->
-  <rect x="40" y="584" width="820" height="62" rx="10" fill="#1f1f33" stroke="#2d2d45" stroke-width="1"/>
-  <rect x="40" y="584" width="6" height="62" rx="3" fill="#fe428e"/>
-  <text x="66" y="607" font-size="16" font-weight="700" fill="#fe428e" font-family="Segoe UI, Helvetica, Arial, sans-serif">Automated Bill Calculator</text>
-  <text x="66" y="629" font-size="14" fill="#c9c9d9" font-family="Segoe UI, Helvetica, Arial, sans-serif">Web-based bill management tool.</text>
-
-  <!-- Project Card 3 -->
-  <rect x="40" y="660" width="820" height="62" rx="10" fill="#1f1f33" stroke="#2d2d45" stroke-width="1"/>
-  <rect x="40" y="660" width="6" height="62" rx="3" fill="#f8d847"/>
-  <text x="66" y="683" font-size="16" font-weight="700" fill="#f8d847" font-family="Segoe UI, Helvetica, Arial, sans-serif">Arduino Distance System</text>
-  <text x="66" y="705" font-size="14" fill="#c9c9d9" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sensor-based measurement project.</text>
-</svg>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
