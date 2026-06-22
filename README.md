@@ -1,49 +1,61 @@
-<h1 align="center">Hi there, I'm John Doe 👋</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=I%20build%20things%20for%20the%20web%3BI%20love%20open%20source%3BI%20write%20clean%20code" alt="Typing SVG" />
-</h3>
+# 💫 About Me:
+I'm Avin Ojha, an Engineering student with a passion for Artificial Intelligence and Web Development.
 
-<p align="center">Passionate about building scalable web applications and exploring new technologies. Constantly learning and evolving in the tech space.</p>
+### 🛠 Tech Stack
+- **Languages:** Python, C, C++, JavaScript
+- **Web:** HTML5, CSS3, Flask
+- **Databases:** Supabase
+- **Hardware:** Arduino
 
-<p align="center">
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johndoe_dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://johndoe.dev)
-</p>
+### 🚀 Projects
+- **DoubtAI** — AI-powered student companion with RAG and paper prediction.
+- **Automated Bill Calculator** — Web-based bill management tool.
+- **Arduino Distance System** — Sensor-based measurement project.
 
-<br/>
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinOjha&show_icons=true&theme=radical)
 
-### 👨‍💻 About Me
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/AvinOjha/portfolio/blob/main/portfolio.html)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/avin_ojha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avin_ojha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avin-ojha)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinojha02@gmail.com)
 
-- 🔭 I’m currently working on *a stealth startup*
-- 🌱 I’m currently learning *Web3 & Rust*
-- 💬 Ask me about *React, Node.js, and system design*
-- 📫 How to reach me: **hello@example.com*
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=plastic&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-### 🛠️ Skills
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AvinOjha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=AvinOjha&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvinOjha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AvinOjha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🏆 GitHub Trophies
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=johndoe&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-  </a>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AvinOjha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📊 GitHub Activity
+---
+[![](https://komarev.com/ghpvc/?username=AvinOjha&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
