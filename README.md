@@ -1,6 +1,3 @@
-# 💫 About Me:
-I'm Avin Ojha, an Engineering student with a passion for Artificial Intelligence and Web Development.<br><br>🛠 Tech Stack<br>Languages: Python, C, C++, JavaScript<br>Web: HTML5, CSS3, Flask<br>Databases: Supabase<br>Hardware: Arduino<br>🚀 Projects<br>DoubtAI: AI-powered student companion with RAG and paper prediction.<br>Automated Bill Calculator: Web-based bill management tool.<br>Arduino Distance System: Sensor-based measurement project.<br>📈 GitHub Stats<br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avin_ojha&show_icons=true&theme=radical)
-
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Avin Ojha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avin_ojha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avin ojha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinojha02@gmail.com) 
