@@ -14,4 +14,5 @@ I'm **Avin Ojha**, an Engineering student with a passion for **Artificial Intell
 * **[Arduino Distance System](link-to-repo):** Sensor-based measurement project.
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avin_ojha&show_icons=true&theme=radical)
+![Your GitHub Stats][(https://github-readme-stats.vercel.app/api?username=Avin_ojha&show_icons=true&theme=radical)
+](https://github.com/AvinOjha/Avin-Ojha.git)
