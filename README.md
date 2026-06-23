@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Avin Ojha 👋</h1>
-<h3 align="center">Web Designer & AI/ML Enthusiast — turning ideas into clean, fast digital experiences</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Avin%20Ojha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
-🎓 2nd-year B.Tech (AI/ML) student at LMCST, Jodhpur &nbsp;|&nbsp; 📍 Jodhpur, Rajasthan, India &nbsp;|&nbsp; 🟢 Open to opportunities
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Web+Designer;AI%2FML+Enthusiast;B.Tech+Student+%40+LMCST+Jodhpur;Building+clean%2C+fast+web+experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
+📍 Jodhpur, Rajasthan, India &nbsp;|&nbsp; 🟢 Open to opportunities
 </p>
 
 <p align="center">
@@ -86,6 +91,16 @@ A structured, responsive page built to practice semantic HTML, accessibility, an
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AvinOjha/AvinOjha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+<p align="center"><sub>⚙️ One-time setup needed — see note below</sub></p>
+
+---
+
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -94,3 +109,5 @@ A structured, responsive page built to practice semantic HTML, accessibility, an
 </p>
 
 <p align="center"><sub>📫 Reach me at <a href="mailto:avinojha02@gmail.com">avinojha02@gmail.com</a></sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
