@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Web+Designer;AI%2FML+Enthusiast;B.Tech+Student+%40+LMCST+Jodhpur;Building+clean%2C+fast+web+experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+%2F+Web+Developer;AI-Integrated+Web+Apps;B.Tech+CSE+%40+LMCST+Jodhpur;Turning+ideas+into+shipped+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-📍 Jodhpur, Rajasthan, India &nbsp;|&nbsp; 🟢 Open to opportunities
+📍 Jodhpur, Rajasthan, India &nbsp;|&nbsp; 🟢 Open to internships &amp; junior frontend roles &nbsp;|&nbsp; 🎓 B.Tech CSE, expected [grad year]
 </p>
 
 <p align="center">
-I build web applications that are functional <em>and</em> beautiful — blending clean design with practical engineering, from AI-powered tools to e-commerce frontends.
+I design and build web applications end-to-end — from UI in Figma to deployed product. Recent focus: integrating AI APIs into practical, everyday tools rather than just demos.
 </p>
 
 <p align="center">
@@ -19,7 +19,17 @@ I build web applications that are functional <em>and</em> beautiful — blending
 <a href="https://linkedin.com/in/avin-ojha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:avinojha02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/AvinOjha"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building **[project name]** — a [one-line description of what it does and who it's for]
+- 🌱 Currently learning **[e.g. TypeScript / Next.js / system design]**
+- 💼 Looking for **frontend developer / web developer internship** roles where I can ship real features
+- ⚡ Fun fact: [something memorable a recruiter might remember you by]
 
 ---
 
@@ -30,15 +40,21 @@ I build web applications that are functional <em>and</em> beautiful — blending
 <td width="50%" valign="top">
 
 **🤖 [Doubt Solver](https://github.com/AvinOjha/doubt_solver)**
-AI-powered Q&A web app built on the Gemini API — students ask questions and get instant, intelligent answers through a clean interface.
+
+AI-powered Q&A tool built on the Gemini API. Students type a question and get an instant, structured answer — built to cut down the time spent searching across multiple sites for a single concept.
+
 `HTML5` `CSS3` `JavaScript` `Gemini API`
+&nbsp;[`Live Demo`](#) · [`Code`](https://github.com/AvinOjha/doubt_solver)
 
 </td>
 <td width="50%" valign="top">
 
 **🍽️ Cravings Cafe Web App**
-A full-stack restaurant management system with an interactive menu, order tracking, and real-time kitchen updates using client-side database tech.
+
+Full-stack restaurant management system: interactive menu, order tracking, and live kitchen updates, all running on client-side persistence via IndexedDB (no backend dependency for core flows).
+
 `HTML5` `CSS3` `JavaScript` `IndexedDB`
+&nbsp;[`Live Demo`](#) · [`Code`](#)
 
 </td>
 </tr>
@@ -46,19 +62,27 @@ A full-stack restaurant management system with an interactive menu, order tracki
 <td width="50%" valign="top">
 
 **🛒 [Crockery Store](https://github.com/AvinOjha/crockery_store)**
-A polished static e-commerce frontend with product listings and a clean layout, live-deployed on a custom domain via GitHub Pages.
+
+Static e-commerce frontend with product listings and a clean, conversion-focused layout — designed, built, and deployed solo on a custom domain via GitHub Pages.
+
 `HTML5` `CSS3` `JavaScript` `GitHub Pages`
+&nbsp;[`Live Site`](#) · [`Code`](https://github.com/AvinOjha/crockery_store)
 
 </td>
 <td width="50%" valign="top">
 
 **📄 [Information Page](https://github.com/AvinOjha/information)**
-A structured, responsive page built to practice semantic HTML, accessibility, and modern CSS layout techniques.
-`HTML5` `CSS3` `Responsive Design`
+
+A responsive, semantic HTML page built specifically to practice accessibility (ARIA, keyboard nav) and modern CSS layout (Grid/Flexbox) — used as a personal reference build.
+
+`HTML5` `CSS3` `Responsive Design` `Accessibility`
+&nbsp;[`Code`](https://github.com/AvinOjha/information)
 
 </td>
 </tr>
 </table>
+
+> 💡 **Tip for you, Avin:** swap the `#` placeholders for real live-demo links wherever you have them deployed (Netlify/Render/GitHub Pages), and add one line per project stating impact or scale if you have it — e.g. "used by X classmates," "reduced lookup time by Y," "N GitHub stars." Recruiters skim for outcomes, not just tech lists.
 
 ---
 
@@ -82,22 +106,12 @@ A structured, responsive page built to practice semantic HTML, accessibility, an
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AvinOjha/AvinOjha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
-
-<p align="center"><sub>⚙️ One-time setup needed — see note below</sub></p>
 
 ---
 
@@ -108,6 +122,12 @@ A structured, responsive page built to practice semantic HTML, accessibility, an
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinOjha&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center"><sub>📫 Reach me at <a href="mailto:avinojha02@gmail.com">avinojha02@gmail.com</a></sub></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvinOjha&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center"><sub>📫 Reach me at <a href="mailto:avinojha02@gmail.com">avinojha02@gmail.com</a> &nbsp;·&nbsp; Open to internships and full-time frontend roles</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
